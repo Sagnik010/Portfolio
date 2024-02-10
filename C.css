@@ -122,10 +122,10 @@ body {
     text-decoration: none;
   }
   
-  #email:hover,
+    #email:hover,
   #portScroll:hover {
-    box-shadow: 5px 15px 30px #062928;
-    background-color: #1A616C;
+    box-shadow: 5px 15px 30px #170F11;
+    background-color: #E56399;
     transition: box-shadow 0.5s, color 0.8s, background-color 0.5s;
     cursor: pointer;
   }
@@ -133,10 +133,11 @@ body {
   #self img {
     width: 35%;
     float: right;
-    border: solid 8px #26816E;
+    border: solid 8px #ED9995;
     border-radius: 2000px;
-    box-shadow: 5px 15px 30px #062928;
+    box-shadow: 5px 15px 30px #000;
   }
+ 
   
   
   /* PORTFOLIO */
